@@ -9,3 +9,6 @@ N/A
 Additional Notes:
 There is a bug that prevents player from switching character, and even after the player changes level the same background image is used.
 I tried to fix it but unfortunately any change would break my game.
+
+Credit for stock image coin:
+VectorStock.com/15947598
